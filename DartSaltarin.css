@@ -1,0 +1,76 @@
+
+body {
+  background-color: #F8F8F8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin: 15px;
+}
+
+p {
+  color: #333;
+}
+
+#gameCanvas
+{
+	border:1px solid #000000;
+	margin:0 auto;
+	display:block;
+	text-align:center;
+}
+
+/*
+@media screen and (max-width:2000px)
+{
+	#gameCanvas
+	{
+		width:1600px;
+		height:1024px;
+	}
+}
+
+@media screen and (max-width:1600px)
+{
+	#gameCanvas
+	{
+		width:1024px;
+		height:600px;
+	}
+}
+
+@media screen and (max-width:1024px)
+{
+	#gameCanvas
+	{
+		width:800px;
+		height:600px;
+	}
+}
+
+@media screen and (max-width:800px)
+{
+	#gameCanvas
+	{
+		width:640px;
+		height:480px;
+	}
+}
+
+@media screen and (max-width:640px)
+{
+	#gameCanvas
+	{
+		width:480px;
+		height:320px;
+	}
+}
+
+@media screen and (max-width:480px)
+{
+	#gameCanvas
+	{
+		width:320px;
+		height:240px;
+	}
+}*/
